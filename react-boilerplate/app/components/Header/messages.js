@@ -16,4 +16,12 @@ export default defineMessages({
     id: `${scope}.features`,
     defaultMessage: 'Features',
   },
+  test: {
+    id: `${scope}.test`,
+    defaultMessage: 'Test Page',
+  },
+  new: {
+    id: `${scope}.new`,
+    defaultMessage: 'New Page',
+  },
 });

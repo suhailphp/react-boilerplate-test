@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8aafbc-b1c9-4d64-9f3b-6340b01278d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu" beforeDir="false" afterPath="$PROJECT_DIR$/edu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html" beforeDir="false" afterPath="$PROJECT_DIR$/edu-html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Theme/react/demo1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/edu-html/app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -41,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/edu-html/app" />
       <recent name="$PROJECT_DIR$/edu" />
       <recent name="$PROJECT_DIR$/edu/app" />
       <recent name="$PROJECT_DIR$/edu/app/_assets/sass" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599369094096</updated>
-      <workItem from="1599369095143" duration="21475000" />
+      <workItem from="1599369095143" duration="27379000" />
     </task>
     <servers />
   </component>
@@ -75,10 +76,14 @@
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state x="243" y="343" key="SettingsEditor/0.23.2560.1362@0.23.2560.1362" timestamp="1599551031954" />
-    <state x="442" y="459" width="598" height="490" key="find.popup" timestamp="1599547638165">
+    <state x="442" y="459" width="598" height="490" key="find.popup" timestamp="1599558370506">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
-    <state x="442" y="459" width="598" height="490" key="find.popup/0.23.2560.1362@0.23.2560.1362" timestamp="1599547638165" />
+    <state x="442" y="459" width="598" height="490" key="find.popup/0.23.2560.1362@0.23.2560.1362" timestamp="1599558370506" />
+    <state x="406" y="335" width="670" height="676" key="search.everywhere.popup" timestamp="1599558459925">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state x="406" y="335" width="670" height="676" key="search.everywhere.popup/0.23.2560.1362@0.23.2560.1362" timestamp="1599558459925" />
     <state x="471" y="623" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599369479259">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>

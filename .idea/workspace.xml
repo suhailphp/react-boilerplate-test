@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8aafbc-b1c9-4d64-9f3b-6340b01278d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu" beforeDir="false" afterPath="$PROJECT_DIR$/edu" afterDir="false" />
     </list>
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599369094096</updated>
-      <workItem from="1599369095143" duration="20978000" />
+      <workItem from="1599369095143" duration="21475000" />
     </task>
     <servers />
   </component>

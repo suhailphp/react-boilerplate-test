@@ -68,7 +68,7 @@ export function HomePage({
       </Helmet>
       <div>
         <CenteredSection>
-          <H2>
+          <H2 style={{fontSize:'30'-username.length}}>
             <FormattedMessage {...messages.startProjectHeader} />
           </H2>
           <p>

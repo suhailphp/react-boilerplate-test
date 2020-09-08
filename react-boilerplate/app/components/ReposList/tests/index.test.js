@@ -35,7 +35,7 @@ describe('<ReposList />', () => {
         html_url: 'https://github.com/react-boilerplate/react-boilerplate',
         name: 'react-boilerplate',
         open_issues_count: 20,
-        full_name: 'react-boilerplate/react-boilerplate',
+        full_name: 'edu-main/edu-main',
       },
     ];
     const { container } = render(

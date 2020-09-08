@@ -2,322 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8aafbc-b1c9-4d64-9f3b-6340b01278d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu/app/containers/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/edu/app/containers/App/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/Changelog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/.nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/A/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/A/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/A.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/StyledButton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/buttonStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/tests/A.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/tests/StyledButton.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Button/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Footer/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Footer/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Footer/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Footer/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Footer/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Footer/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/H1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/H1/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/H2/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/H2/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/H3/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/H3/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/A.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/HeaderLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/Img.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/NavBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/tests/A.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/tests/Img.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/tests/__snapshots__/A.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/tests/__snapshots__/Img.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Header/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Img/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Img/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/IssueIcon/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/IssueIcon/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/List/Ul.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/List/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/List/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/List/tests/Ul.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/List/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/List/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ListItem/Item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ListItem/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ListItem/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ListItem/tests/Item.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ListItem/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ListItem/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/Circle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/tests/Circle.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/LoadingIndicator/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ReposList/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ReposList/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ReposList/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Toggle/Select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Toggle/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Toggle/tests/Select.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Toggle/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/Toggle/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ToggleOption/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ToggleOption/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/components/ToggleOption/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/configureStore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/tests/actions.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/tests/reducer.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/App/tests/selectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/List.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/ListItem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/ListItemTitle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/Loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/tests/List.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/tests/ListItem.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/tests/ListItemTitle.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/FeaturePage/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/AtPrefix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/CenteredSection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/Form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/Input.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/Loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/Section.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/saga.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/AtPrefix.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/CenteredSection.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/Form.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/Input.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/Section.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/__snapshots__/saga.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/actions.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/reducer.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/saga.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/HomePage/tests/selectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/tests/actions.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/tests/reducer.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LanguageProvider/tests/selectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LocaleToggle/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LocaleToggle/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LocaleToggle/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LocaleToggle/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LocaleToggle/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/LocaleToggle/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/NotFoundPage/Loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/NotFoundPage/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/NotFoundPage/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/NotFoundPage/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/IssueIcon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/IssueLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/RepoLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/Wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/IssueIcon.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/IssueLink.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/RepoLink.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/Wrapper.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/__snapshots__/IssueIcon.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/__snapshots__/IssueLink.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/__snapshots__/RepoLink.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/containers/RepoListItem/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/global-styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/i18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/images/icon-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/reducers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/tests/i18n.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/tests/store.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/translations/de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/translations/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/checkStore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/history.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/injectReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/injectSaga.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/reducerInjectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/request.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/sagaInjectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/tests/checkStore.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/tests/injectReducer.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/tests/injectSaga.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/tests/reducerInjectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/tests/request.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/app/utils/tests/sagaInjectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/appveyor.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/css/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/css/linting.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/css/remove.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/css/sanitize.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/forks/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/commands.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/components.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/debugging.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/deployment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/editor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/files.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/gotchas.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/introduction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/remove.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/server-configs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/webstorm-debug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/webstorm-eslint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/general/workflow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/async-components.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/i18n.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/immer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/redux-saga.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/redux.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/remove.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/reselect.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/js/routing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/maintenance/dependency.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/testing/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/testing/component-testing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/testing/remote-testing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/docs/testing/unit-testing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/component/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/component/index.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/component/loadable.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/component/messages.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/component/test.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/actions.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/actions.test.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/constants.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/index.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/messages.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/reducer.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/reducer.test.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/saga.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/saga.test.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/selectors.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/selectors.test.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/container/test.js.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/add-locale-data.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/app-locale.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/format-translation-messages.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/intl-locale-data.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/polyfill-intl-locale.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/translation-messages.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/language/translations-json.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/generators/utils/componentExists.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/mocks/cssModule.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/mocks/image.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/analyze.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/clean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/extract-intl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/generate-templates-for-linting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/helpers/checkmark.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/helpers/get-npm-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/helpers/progress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/helpers/xmark.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/scripts/npmcheckversion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/configureStore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/App/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/App/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/App/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/App/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/App/tests/selectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/HomePage/Loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/HomePage/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/HomePage/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/HomePage/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/HomePage/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/LanguageProvider/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/LanguageProvider/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/LanguageProvider/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/LanguageProvider/reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/LanguageProvider/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/NotFoundPage/Loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/NotFoundPage/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/NotFoundPage/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/NotFoundPage/tests/__snapshots__/index.test.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/containers/NotFoundPage/tests/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/global-styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/i18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/reducers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/tests/i18n.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/tests/store.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/translations/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/checkStore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/history.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/injectReducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/injectSaga.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/loadable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/reducerInjectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/sagaInjectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/tests/checkStore.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/tests/injectReducer.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/tests/injectSaga.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/tests/reducerInjectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/templates/utils/tests/sagaInjectors.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/testing/test-bundler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/webpack/webpack.base.babel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/webpack/webpack.dev.babel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/internals/webpack/webpack.prod.babel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/jest.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/server/argv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/server/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/server/middlewares/addDevMiddlewares.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/server/middlewares/addProdMiddlewares.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/server/middlewares/frontendMiddleware.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-boilerplate/server/port.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu" beforeDir="false" afterPath="$PROJECT_DIR$/edu" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,6 +12,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1h7jbE8ORGPEH3pGFGu2sQXyx5c" />
   <component name="ProjectViewState">
@@ -336,12 +28,23 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Theme/react/demo1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/edu" />
+      <recent name="$PROJECT_DIR$/edu/app" />
+      <recent name="$PROJECT_DIR$/edu/app/_assets/sass" />
+      <recent name="$PROJECT_DIR$/edu/app/containers/LoginPage" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -351,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599369094096</updated>
-      <workItem from="1599369095143" duration="9492000" />
+      <workItem from="1599369095143" duration="20978000" />
     </task>
     <servers />
   </component>
@@ -359,10 +62,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="442" y="459" width="598" height="490" key="find.popup" timestamp="1599458542152">
+    <state x="206" y="366" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599551044574">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
-    <state x="442" y="459" width="598" height="490" key="find.popup/0.23.2560.1362@0.23.2560.1362" timestamp="1599458542152" />
+    <state x="206" y="366" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1362@0.23.2560.1362" timestamp="1599551044574" />
+    <state x="529" y="466" key="FileChooserDialogImpl" timestamp="1599547613306">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state x="529" y="466" key="FileChooserDialogImpl/0.23.2560.1362@0.23.2560.1362" timestamp="1599547613306" />
+    <state x="243" y="343" key="SettingsEditor" timestamp="1599551031954">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state x="243" y="343" key="SettingsEditor/0.23.2560.1362@0.23.2560.1362" timestamp="1599551031954" />
+    <state x="442" y="459" width="598" height="490" key="find.popup" timestamp="1599547638165">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state x="442" y="459" width="598" height="490" key="find.popup/0.23.2560.1362@0.23.2560.1362" timestamp="1599547638165" />
     <state x="471" y="623" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599369479259">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>

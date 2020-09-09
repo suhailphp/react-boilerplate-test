@@ -2270,7 +2270,7 @@
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/reducer.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/saga.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/selectors.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu" beforeDir="false" afterPath="$PROJECT_DIR$/edu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu-html" beforeDir="false" afterPath="$PROJECT_DIR$/edu-html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu-html/app/containers/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/edu-html/app/containers/App/index.js" afterDir="false" />
@@ -2285,7 +2285,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/edu-html" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -2331,7 +2331,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599369094096</updated>
       <workItem from="1599369095143" duration="28052000" />
-      <workItem from="1599642260016" duration="206000" />
+      <workItem from="1599642260016" duration="816000" />
     </task>
     <servers />
   </component>

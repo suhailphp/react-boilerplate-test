@@ -1,5 +1,5 @@
 
-git add .;
+git add --all;
 for (( ; ; ))
 do
     echo "Please enter commit message";

@@ -12,4 +12,4 @@ do
     fi
 done
 git commit -m "$msg";
-git push gitHub master;
+git push origin master;

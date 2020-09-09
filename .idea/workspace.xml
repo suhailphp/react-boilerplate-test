@@ -2270,6 +2270,8 @@
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/reducer.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/saga.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/selectors.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu" beforeDir="false" afterPath="$PROJECT_DIR$/edu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu-html" beforeDir="false" afterPath="$PROJECT_DIR$/edu-html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu-html/.gitattributes" beforeDir="false" />
@@ -2291,7 +2293,6 @@
       <change beforePath="$PROJECT_DIR$/edu/internals/webpack/webpack.base.babel.js" beforeDir="false" afterPath="$PROJECT_DIR$/edu/internals/webpack/webpack.base.babel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/edu/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/edu/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2345,7 +2346,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599369094096</updated>
       <workItem from="1599369095143" duration="28052000" />
-      <workItem from="1599642260016" duration="1061000" />
+      <workItem from="1599642260016" duration="1095000" />
     </task>
     <servers />
   </component>

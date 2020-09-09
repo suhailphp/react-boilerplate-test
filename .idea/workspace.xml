@@ -2270,14 +2270,28 @@
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/reducer.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/saga.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu-html/app/containers/AuthSignupPage/tests/selectors.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu" beforeDir="false" afterPath="$PROJECT_DIR$/edu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu-html" beforeDir="false" afterPath="$PROJECT_DIR$/edu-html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.github/issue-close-app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.github/lock.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-html/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/edu-html/app/containers/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/edu-html/app/containers/App/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.github/issue-close-app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.github/lock.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/edu/app/containers/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/edu/app/containers/App/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu/internals/webpack/webpack.base.babel.js" beforeDir="false" afterPath="$PROJECT_DIR$/edu/internals/webpack/webpack.base.babel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/edu/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/edu/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/edu/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2285,7 +2299,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/edu-html" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -2331,7 +2345,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599369094096</updated>
       <workItem from="1599369095143" duration="28052000" />
-      <workItem from="1599642260016" duration="816000" />
+      <workItem from="1599642260016" duration="1061000" />
     </task>
     <servers />
   </component>
